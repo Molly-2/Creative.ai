@@ -1,0 +1,18 @@
+{
+  "name": "neko-server",
+  "version": "1.0.0",
+  "description": "A fast Express server for fetching Neko images from nekos.life API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Hassan",
+  "license": "MIT"
+}
